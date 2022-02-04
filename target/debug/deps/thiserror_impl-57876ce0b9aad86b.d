@@ -1,0 +1,12 @@
+/Users/hq/Desktop/techno/rust-pro/rust-warp-docker/target/debug/deps/libthiserror_impl-57876ce0b9aad86b.dylib: /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs
+
+/Users/hq/Desktop/techno/rust-pro/rust-warp-docker/target/debug/deps/thiserror_impl-57876ce0b9aad86b.d: /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs
+
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs:

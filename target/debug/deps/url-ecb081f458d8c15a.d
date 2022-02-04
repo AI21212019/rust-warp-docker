@@ -1,0 +1,13 @@
+/Users/hq/Desktop/techno/rust-pro/rust-warp-docker/target/debug/deps/url-ecb081f458d8c15a.rmeta: /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/Users/hq/Desktop/techno/rust-pro/rust-warp-docker/target/debug/deps/liburl-ecb081f458d8c15a.rlib: /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/Users/hq/Desktop/techno/rust-pro/rust-warp-docker/target/debug/deps/url-ecb081f458d8c15a.d: /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs:
+/Users/hq/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs:
